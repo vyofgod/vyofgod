@@ -174,7 +174,7 @@ I believe in building software that's not just functional, but also performant, 
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 #### [CryptXT](https://github.com/vyofgod/CryptXT)
 Cross-platform encryption CLI tool
@@ -184,7 +184,7 @@ Cross-platform encryption CLI tool
 - Built with Python
 
 </td>
-<td width="50%">
+<td width="33%">
 
 #### [peer2drop](https://github.com/vyofgod/peer2drop)
 Secure P2P file sharing tool
@@ -194,9 +194,7 @@ Secure P2P file sharing tool
 - Serverless, direct transfer
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%">
 
 #### [DAMSLE](https://github.com/vyofgod/DAMSLE)
 High-performance Go microservice
