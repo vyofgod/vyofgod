@@ -211,19 +211,13 @@ High-performance Go microservice
 </td>
 <td width="50%">
 
-#### More Coming Soon...
-Working on new projects!
-- Research & Development
-- Developer tools
-- Distributed systems
-
 </td>
 </tr>
 </table>
 
 ---
 
-### <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="20" height="20"/> GitHub Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vyofgod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
@@ -236,7 +230,7 @@ Working on new projects!
 
 ---
 
-### <img src="https://cdn.simpleicons.org/target/FF6B6B" width="20" height="20"/> Focus Areas
+### 🎯 Focus Areas
 
 ```python
 expertise = {
@@ -251,7 +245,7 @@ expertise = {
 
 ---
 
-### <img src="https://cdn.simpleicons.org/rss/FFA500" width="20" height="20"/> Latest Blog Posts
+### 📝 Latest Blog Posts
 
 Visit my blog: [centrion.blog/tr](https://centrion.blog/tr/)
 
