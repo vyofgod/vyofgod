@@ -260,7 +260,3 @@ Visit my blog: [centrion.blog/tr](https://centrion.blog/tr/)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vyofgod&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
-
-<p align="center">
-  <i><img src="https://cdn.simpleicons.org/star/FFD700" width="16" height="16"/> Don't forget to star my projects if you like them!</i>
-</p>
