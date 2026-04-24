@@ -23,7 +23,7 @@
 
 #### What I Love Working On
 
-I've been in the software development field for over a decade and a half, and my journey has taken me through various domains. However, my true passion lies in **browser technologies and rendering engines**. There's something fascinating about how browsers interpret and display the web, and I love diving deep into the internals of browser engines like Gecko (Firefox) and Chromium.
+I've been in the software development field for over a decade and a half, and my journey has taken me through various domains. However, my true passion lies in **browser technologies and rendering engines**. There's something fascinating about how browsers interpret and display the web, and I love diving deep into the internals of browser engines like Gecko (Firefox).
 
 As a **Linux enthusiast** and **open source advocate**, I believe in the power of collaborative development and transparent software. Most of my work is done on Linux systems, and I'm deeply committed to contributing back to the open source community that has given me so much.
 
