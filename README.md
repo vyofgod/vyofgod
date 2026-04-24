@@ -156,6 +156,10 @@ I believe in building software that's not just functional, but also performant, 
 <p align="center">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify"/>
+</p>
+
+#### Browsers
+<p align="center">
   <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Firefox"/>
 </p>
 
@@ -250,15 +254,6 @@ expertise = {
 ### <img src="https://cdn.simpleicons.org/rss/FFA500" width="20" height="20"/> Latest Blog Posts
 
 <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="16" height="16"/> Visit my blog: [centrion.blog/tr](https://centrion.blog/tr/)
-
----
-
-### <img src="https://cdn.simpleicons.org/handshake/00D9FF" width="20" height="20"/> Let's Connect
-
-<p align="center">
-  <a href="https://github.com/vyofgod"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://centrion.blog/tr/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"/></a>
-</p>
 
 ---
 
