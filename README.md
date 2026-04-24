@@ -253,7 +253,7 @@ expertise = {
 
 ### <img src="https://cdn.simpleicons.org/rss/FFA500" width="20" height="20"/> Latest Blog Posts
 
-<img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="16" height="16"/> Visit my blog: [centrion.blog/tr](https://centrion.blog/tr/)
+Visit my blog: [centrion.blog/tr](https://centrion.blog/tr/)
 
 ---
 
