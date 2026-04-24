@@ -36,10 +36,10 @@ I believe in building software that's not just functional, but also performant, 
 ### <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#4285F4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;"><path d="m5 8 6 6"/><path d="m4 14 6-6 2-3"/><path d="M2 5h12"/><path d="M7 2h1"/><path d="m22 22-5-10-5 10"/><path d="M14 18h6"/></svg> Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/🇹🇷_Turkish-Native-red?style=for-the-badge" alt="Turkish"/>
-  <img src="https://img.shields.io/badge/🇬🇧_English-C2-blue?style=for-the-badge" alt="English"/>
-  <img src="https://img.shields.io/badge/🇪🇸_Spanish-C2-yellow?style=for-the-badge" alt="Spanish"/>
-  <img src="https://img.shields.io/badge/🇩🇪_German-C1-black?style=for-the-badge" alt="German"/>
+  <img src="https://img.shields.io/badge/Turkish-Native-red?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNjAwIj48cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjYwMCIgZmlsbD0iI0UzMEExNyIvPjxjaXJjbGUgY3g9IjQyNSIgY3k9IjMwMCIgcj0iMTIwIiBmaWxsPSIjZmZmIi8+PGNpcmNsZSBjeD0iNDYwIiBjeT0iMzAwIiByPSI5NiIgZmlsbD0iI0UzMEExNyIvPjxwb2x5Z29uIHBvaW50cz0iNTIwLDI1MCA1MzUsMjkwIDU3NSwyOTAgNTQzLDMxMiA1NTgsMzUyIDUyMCwzMzAgNDgyLDM1MiA0OTcsMzEyIDQ2NSwyOTAgNTA1LDI5MCIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==" alt="Turkish"/>
+  <img src="https://img.shields.io/badge/English-C2-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MCAzMCI+PGNsaXBQYXRoIGlkPSJ0Ij48cGF0aCBkPSJNMzAsMTUgaCAzMCB2IDE1IHogdiAxNSBoIC0zMCB6IGggLTMwIHYgLTE1IHogdiAtMTUgaCAzMCB6Ii8+PC9jbGlwUGF0aD48cGF0aCBkPSJNMCwwIHYgMzAgaCA2MCB2IC0zMCB6IiBmaWxsPSIjMDEyMTY5Ii8+PHBhdGggZD0iTTAsMCBMIDYwLDMwIE0gNjAsMCBMIDAsMzAiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSI2Ii8+PHBhdGggZD0iTTAsMCBMIDYwLDMwIE0gNjAsMCBMIDAsMzAiIGNsaXAtcGF0aD0idXJsKCN0KSIgc3Ryb2tlPSIjQzgxMDJFIiBzdHJva2Utd2lkdGg9IjQiLz48cGF0aCBkPSJNIDMwLDAgdiAzMCBNIDAsMTUgaCA2MCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEwIi8+PHBhdGggZD0iTSAzMCwwIHYgMzAgTSAwLDE1IGggNjAiIHN0cm9rZT0iI0M4MTAyRSIgc3Ryb2tlLXdpZHRoPSI2Ii8+PC9zdmc+" alt="English"/>
+  <img src="https://img.shields.io/badge/Spanish-C2-yellow?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3NTAgNTAwIj48cmVjdCB3aWR0aD0iNzUwIiBoZWlnaHQ9IjUwMCIgZmlsbD0iI0FBMTUxQiIvPjxyZWN0IHk9IjEyNSIgd2lkdGg9Ijc1MCIgaGVpZ2h0PSIyNTAiIGZpbGw9IiNGMUJGMDAiLz48L3N2Zz4=" alt="Spanish"/>
+  <img src="https://img.shields.io/badge/German-C1-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1IDMiPjxyZWN0IHdpZHRoPSI1IiBoZWlnaHQ9IjMiIGZpbGw9IiMwMDAiLz48cmVjdCB5PSIxIiB3aWR0aD0iNSIgaGVpZ2h0PSIyIiBmaWxsPSIjRDAwIi8+PHJlY3QgeT0iMiIgd2lkdGg9IjUiIGhlaWdodD0iMSIgZmlsbD0iI0ZGQ0UwMCIvPjwvc3ZnPg==" alt="German"/>
 </p>
 
 ---
@@ -209,7 +209,7 @@ High-performance Go microservice
 
 ---
 
-### 📊 GitHub Statistics
+### <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2E9EF7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;"><line x1="18" y1="20" x2="18" y2="10"></line><line x1="12" y1="20" x2="12" y2="4"></line><line x1="6" y1="20" x2="6" y2="14"></line></svg> GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vyofgod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
@@ -222,7 +222,7 @@ High-performance Go microservice
 
 ---
 
-### 🎯 Focus Areas
+### <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2E9EF7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;"><circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="6"></circle><circle cx="12" cy="12" r="2"></circle></svg> Focus Areas
 
 ```python
 expertise = {
@@ -237,7 +237,7 @@ expertise = {
 
 ---
 
-### 📝 Latest Blog Posts
+### <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2E9EF7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg> Latest Blog Posts
 
 Visit my blog: [centrion.blog/tr](https://centrion.blog/tr/)
 
