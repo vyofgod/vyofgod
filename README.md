@@ -1,7 +1,4 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" height="40" style="vertical-align: middle;"/> 
-  Hi, I'm vyofgod
-</h1>
+<h1 align="center">Hi, I'm vyofgod</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Backend+Developer;Full+Stack+Engineer;Open+Source+Contributor;Founder+of+Centrion" alt="Typing SVG" />
