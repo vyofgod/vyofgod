@@ -206,9 +206,6 @@ High-performance Go microservice
 - Production-ready
 
 </td>
-<td width="50%">
-
-</td>
 </tr>
 </table>
 
